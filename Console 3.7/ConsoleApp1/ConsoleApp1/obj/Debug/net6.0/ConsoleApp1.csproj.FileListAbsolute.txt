@@ -1,0 +1,45 @@
+c:\Users\1\Desktop\Консоль\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+c:\Users\1\Desktop\Консоль\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+c:\Users\1\Desktop\Консоль\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+c:\Users\1\Desktop\Консоль\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+c:\Users\1\Desktop\Консоль\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+c:\Users\1\Desktop\Консоль\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+c:\Users\1\Desktop\Консоль\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\1\Desktop\Консоль\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+c:\Users\1\Desktop\Консоль\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+c:\Users\1\Desktop\Консоль\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+c:\Users\1\Desktop\Консоль\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+c:\Users\1\Desktop\Консоль\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+c:\Users\1\Desktop\Консоль\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+c:\Users\1\Desktop\Консоль\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+c:\Users\1\Desktop\Консоль\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+c:\Users\1\Desktop\Console\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+c:\Users\1\Desktop\Console\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\1\Desktop\Console\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+c:\Users\1\Desktop\Console\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+c:\Users\1\Desktop\Console\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+c:\Users\1\Desktop\Console\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+c:\Users\1\Desktop\Console\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+c:\Users\1\Desktop\Console\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+c:\Users\1\Desktop\Console\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+c:\Users\1\Desktop\Console\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+c:\Users\1\Desktop\Console\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+c:\Users\1\Desktop\Console\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+c:\Users\1\Desktop\Console\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+c:\Users\1\Desktop\Console\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+c:\Users\1\Desktop\Console\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+c:\Users\1\Desktop\Console 3.7\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+c:\Users\1\Desktop\Console 3.7\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\1\Desktop\Console 3.7\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+c:\Users\1\Desktop\Console 3.7\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+c:\Users\1\Desktop\Console 3.7\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+c:\Users\1\Desktop\Console 3.7\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+c:\Users\1\Desktop\Console 3.7\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+c:\Users\1\Desktop\Console 3.7\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+c:\Users\1\Desktop\Console 3.7\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+c:\Users\1\Desktop\Console 3.7\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+c:\Users\1\Desktop\Console 3.7\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+c:\Users\1\Desktop\Console 3.7\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+c:\Users\1\Desktop\Console 3.7\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+c:\Users\1\Desktop\Console 3.7\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+c:\Users\1\Desktop\Console 3.7\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
